@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### **npm install first!
+### **Run "npm install" first!
+
+### Then, run "npm run dev" to start client and server site
+
+### INSTRUCTION FROM FACEBOOK REACT
 
 ## Available Scripts
 
